@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf0041ce.css",
-    "main.js": "/static/js/main.820fab2d.js",
-    "static/media/urso.png": "/static/media/urso.e188ef98a3bb5b1924a1.png",
-    "static/media/bebe.gif": "/static/media/bebe.83caf69c63d66fe32f30.gif",
-    "static/media/BabyNamesDEMO.otf": "/static/media/BabyNamesDEMO.4dc9dea69642c11d5d06.otf",
-    "static/media/tackyshoesDEMO.otf": "/static/media/tackyshoesDEMO.87d965b3bbf2b0387bce.otf",
-    "index.html": "/index.html",
-    "main.bf0041ce.css.map": "/static/css/main.bf0041ce.css.map",
-    "main.820fab2d.js.map": "/static/js/main.820fab2d.js.map"
+    "main.css": "/cha-revelacao/static/css/main.634b76a3.css",
+    "main.js": "/cha-revelacao/static/js/main.959ec554.js",
+    "static/media/urso.png": "/cha-revelacao/static/media/urso.e188ef98a3bb5b1924a1.png",
+    "static/media/bebe.gif": "/cha-revelacao/static/media/bebe.83caf69c63d66fe32f30.gif",
+    "static/media/BabyNamesDEMO.otf": "/cha-revelacao/static/media/BabyNamesDEMO.4dc9dea69642c11d5d06.otf",
+    "static/media/tackyshoesDEMO.otf": "/cha-revelacao/static/media/tackyshoesDEMO.87d965b3bbf2b0387bce.otf",
+    "index.html": "/cha-revelacao/index.html",
+    "main.634b76a3.css.map": "/cha-revelacao/static/css/main.634b76a3.css.map",
+    "main.959ec554.js.map": "/cha-revelacao/static/js/main.959ec554.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf0041ce.css",
-    "static/js/main.820fab2d.js"
+    "static/css/main.634b76a3.css",
+    "static/js/main.959ec554.js"
   ]
 }
