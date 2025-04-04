@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import './App.css';
 import urso from './urso.png';
-import bebe from './bebe.gif';
 
 function App() {
   const [isScaled, setIsScaled] = useState(false);
@@ -20,7 +19,7 @@ function App() {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#FFE4B5',
+    backgroundColor: isScaled ? '#90CAF9' : '#FFE4B5',
   };
 
   const container = {
@@ -39,7 +38,7 @@ function App() {
   };
 
   const babyName = {
-    fontSize: '5em',
+    fontSize: '8em',
     color: '#333',
     textAlign: 'center',
     fontFamily: 'babyName',
@@ -61,8 +60,7 @@ function App() {
 
           {isScaled && (
             <>
-              <h1 style={babyName}>Pablo Vittar</h1>
-              <img src={bebe} style={bear} onClick={handleClick} />
+              <h1 style={babyName}>Heitor</h1>
             </>
           )}
         </div>
